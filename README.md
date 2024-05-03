@@ -3,6 +3,9 @@
 ## Overview
 This repository contains the source code related to the paper titled "Artificial-Intelligence-Driven Shot Reduction in Quantum Measurement". This project employs a reinforcement learning strategy to dynamically optimize shot allocation in Variational Quantum Eigensolvers (VQE), reducing the number of quantum measurements needed while maintaining computational accuracy.
 
+
+![AI-Driven VQE Diagram](https://github.com/Linghua-Zhu/RL-Quantum-Measurement-Optimization/blob/main/images/AIvqe-1.png)
+
 ## Features
 - **Dynamic Shot Allocation**: Implements a reinforcement learning approach to adjust measurement shots during VQE optimization.
 - **Enhanced Efficiency**: Reduces the number of shots required, lowering computational costs.
