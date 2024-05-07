@@ -7,7 +7,7 @@ This repository contains the source code related to the paper titled "Artificial
 ![AI-Driven VQE Diagram](https://github.com/Linghua-Zhu/RL-Quantum-Measurement-Optimization/blob/main/images/AIvqe-1.png)
 
 ## Paper
-For detailed information, you can access the paper here: [[link to the paper](https://arxiv.org/abs/2405.02493)] 
+For detailed information, you can access the paper here: [(https://arxiv.org/abs/2405.02493)] 
 
 ## Features
 - **Dynamic Shot Allocation**: Implements a reinforcement learning approach to adjust measurement shots during VQE optimization.
