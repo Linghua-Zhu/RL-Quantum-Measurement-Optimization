@@ -23,5 +23,4 @@ To use this software, ensure you have the following installed:
 Clone the repository and install the dependencies:
 ```bash
 git clone https://github.com/Linghua-Zhu/RL-Quantum-Measurement-Optimization.git
-cd RL-Quantum-Measurement-Optimization
-pip install -r requirements.txt
+
